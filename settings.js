@@ -3,8 +3,8 @@
 //YouTube: @DGXeon
 //Instagram: unicorn_xeon13
 //Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
+//GitHub: @Maldii14
+//WhatsApp: +254758732775
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 const fs = require('fs')
@@ -22,7 +22,7 @@ global.ownername = 'MAK J' //ur owner name
 global.websitex = "https://whatsapp.com/channel/0029VaWrCuH35fLuVP2iCc2R"
 global.themeemoji = '🪀'
 global.wm = "M Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD14' //script link
+global.botscript = 'https://github.com/Maldii14/cheemsbot14' //script link
 global.packname = "Sticker By"
 global.author = "MAKJ\n\n+254758732775"
 global.creator = "254758732775@s.whatsapp.net"
@@ -33,8 +33,8 @@ global.hituet = 0
 //bot sett
 global.typemenu = 'v4' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
-global.autoblocknumber = '92' //set autoblock country code
-global.antiforeignnumber = '91' //set anti foreign number country code
+global.autoblocknumber = '263' //set autoblock country code
+global.antiforeignnumber = '263' //set anti foreign number country code
 global.welcome = false //welcome/left in groups
 global.anticall = true //bot blocks user when called
 global.autoswview = true //auto status/story view
