@@ -23,8 +23,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/DGXeon/CheemsBot-MD11.git
-cd CheemsBot-MD11
+git clone https://github.com/Maldii14/Cheemsbot14.git
+cd cheemsbot14
 
 npm start
 ```
@@ -40,8 +40,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DGXeon/CheemsBot-MD11
-cd CheemsBot-MD11
+git clone https://github.com/Maldii14/Cheemsbot14
+cd cheemsbot14
 yarn install
 npm start
 ```
@@ -51,10 +51,10 @@ apt install nodejs
 apt install git 
 apt apt install ffmpeg 
 apt apt install libwebp 
-apt apt install imagrmagick
+apt apt install imagemagick
 apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD11
-cd CheemsBot-MD11
+git clone https://github.com/Maldii14/Cheemsbot14
+cd cheemsbot14
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
