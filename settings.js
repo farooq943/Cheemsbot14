@@ -4,7 +4,7 @@
 //Instagram: unicorn_xeon13
 //Telegram: t.me/xeonbotinc
 //GitHub: @Maldii14
-//WhatsApp: +254758732775
+//WhatsApp: +923377507791
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 const fs = require('fs')
@@ -17,17 +17,17 @@ global.location = "Kenya, Nairobi, Nairobi" //ur location
 
 //new
 global.botname = 'M MD V1' //ur bot name
-global.ownernumber = '254758732775' //ur owner number
+global.ownernumber = '923377507791' //ur owner number
 global.ownername = 'MAK J' //ur owner name
 global.websitex = "https://whatsapp.com/channel/0029VaWrCuH35fLuVP2iCc2R"
 global.themeemoji = '🪀'
 global.wm = "M Bot Inc."
 global.botscript = 'https://github.com/Maldii14/cheemsbot14' //script link
 global.packname = "Sticker By"
-global.author = "MAKJ\n\n+254758732775"
-global.creator = "254758732775@s.whatsapp.net"
+global.author = "MAKJ\n\n+923377507791"
+global.creator = "923377507791@s.whatsapp.net"
 global.xprefix = '*'
-global.premium = ["254758732775"] // Premium User
+global.premium = ["923377507791"] // Premium User
 global.hituet = 0
 
 //bot sett
